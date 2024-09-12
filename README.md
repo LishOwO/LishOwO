@@ -15,7 +15,20 @@ I'm Lish (@LishOwO), a student who likes programming, especially games and the b
 
 **HTML and CSS**, if you consider those languages 😄
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="64px" alt="css">](https://html.com/)[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="64px" alt="css">](https://html.com/)
 
+## What I'm working on 🚀
+
+A game! It's called Regetable, go check it out!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AgrouAgrou-org&repo=regetable&theme=radical)](https://github.com/agrouagrou-org/regetable)
+
+Okay... It may be a little bit empty... Soon™ though
+
+### Some things about me!
+- 🐱 I like cats! Meow Meow! Have you heard of that game OneShot?
+- 🏭 My favorite game is Factorio
+- ‼️ I take any constructive criticism, that's how we learn!
 
 
 <!--
