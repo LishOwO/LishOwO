@@ -1,7 +1,7 @@
 # Lish 👋
 
 ## Who am I?
-I'm Lish (@LishOwO), a student who likes programming, especially games and the back-end kind of stuff;
+I'm **Lish** (@LishOwO), a student who likes programming, especially games and the back-end kind of stuff.
 
 ## Languages I know 🖥️
 
@@ -9,7 +9,7 @@ I'm Lish (@LishOwO), a student who likes programming, especially games and the b
 
 [<img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="64px" height="64px" alt="python">](https://www.python.org)
 
-**C#** - Beginner
+**C#** - Beginner (Learning)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="64px" alt="c_sharp">](https://dotnet.microsoft.com/en-us/learn/csharp)
 
@@ -25,10 +25,17 @@ A game! It's called Regetable, go check it out!
 
 Okay... It may be a little bit empty... Soon™ though
 
-### Some things about me!
+## Some things about me!
 - 🐱 I like cats! Meow Meow! Have you heard of that game OneShot?
 - 🏭 My favorite game is Factorio
 - ‼️ I take any constructive criticism, that's how we learn!
+
+## My GitHub Stats
+![Lish's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishowo&show_icons=true&theme=radical)
+
+### Some Niko pictures
+
+
 
 
 <!--
