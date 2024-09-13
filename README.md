@@ -28,7 +28,7 @@ Okay... It may be a little bit empty... Soon™ though
 ## Some things about me!
 - 🐱 I like cats! Meow Meow! Have you heard of that game OneShot?
 - 🏭 My favorite game is Factorio
-- ‼️ I take any constructive criticism, that's how we learn!
+- 💬 I take any constructive criticism, that's how we learn!
 
 ## My GitHub Stats
 ![Lish's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishowo&show_icons=true&theme=radical)
