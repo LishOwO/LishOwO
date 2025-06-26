@@ -15,10 +15,6 @@ I'm **Lish** (@LishOwO), a student who likes programming, especially games and t
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="64px" alt="c_sharp">](https://dotnet.microsoft.com/en-us/learn/csharp)
 
-**HTML and CSS**, if you consider those languages 😄
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="64px" alt="css">](https://html.com/)[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="64px" alt="css">](https://html.com/)
-
 ### Some Niko pictures
 <img src="https://github.com/LishOwO/LishOwO/blob/e17c8f453d9f9f5e9f986114ec033eb3e12398c3/niko_logo.jpeg" width="324px" height="182px">
 
